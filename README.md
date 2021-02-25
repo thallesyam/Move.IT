@@ -85,6 +85,7 @@ $ npm start
 
 <br>
 
+Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 
 # Entre em contato comigo pelo:
