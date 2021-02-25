@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img align="right" src="![icon](https://user-images.githubusercontent.com/59545660/109227249-c777fe00-779e-11eb-885d-fe2a43173f36.png)" width="35%" alt="Move.it">
+<img align="right" src="https://user-images.githubusercontent.com/59545660/109227249-c777fe00-779e-11eb-885d-fe2a43173f36.png" width="35%" alt="Move.it">
 
 ## Tópicos 
 
