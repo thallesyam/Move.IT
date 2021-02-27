@@ -17,3 +17,9 @@
   align-content: center;
   grid-template-columns: 1fr 1fr;
 }
+
+@media screen and (max-width: 768px) {
+  .container section {
+    grid-template-columns: 1fr;
+  }
+}
